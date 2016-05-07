@@ -77,6 +77,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g5-common/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/lge/g5-common/proprietary/lib/hw/camera.msm8996.so:system/lib/hw/camera.msm8996.so \
     vendor/lge/g5-common/proprietary/lib/libarcsoft_beauty_shot.so:system/lib/libarcsoft_beauty_shot.so \
+    vendor/lge/g5-common/proprietary/lib/libfilm_emulation.so:system/lib/libfilm_emulation.so \
     vendor/lge/g5-common/proprietary/lib/libHDR.so:system/lib/libHDR.so \
     vendor/lge/g5-common/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
     vendor/lge/g5-common/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
@@ -84,6 +85,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g5-common/proprietary/lib/libmorpho_image_stab31.so:system/lib/libmorpho_image_stab31.so \
     vendor/lge/g5-common/proprietary/lib/libmorpho_superzoom.so:system/lib/libmorpho_superzoom.so \
     vendor/lge/g5-common/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
+    vendor/lge/g5-common/proprietary/lib/libVDBase.so:system/lib/libVDBase.so \
     vendor/lge/g5-common/proprietary/lib/libVDLowLightAPI.so:system/lib/libVDLowLightAPI.so \
     vendor/lge/g5-common/proprietary/vendor/lib64/libmmcamera2_frame_algorithm.so:system/vendor/lib64/libmmcamera2_frame_algorithm.so \
     vendor/lge/g5-common/proprietary/vendor/lib64/libmmcamera2_is.so:system/vendor/lib64/libmmcamera2_is.so \
@@ -171,6 +173,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g5-common/proprietary/vendor/lib/libmmcamera_isp_sce40.so:system/vendor/lib/libmmcamera_isp_sce40.so \
     vendor/lge/g5-common/proprietary/vendor/lib/libmmcamera_isp_snr47.so:system/vendor/lib/libmmcamera_isp_snr47.so \
     vendor/lge/g5-common/proprietary/vendor/lib/libmmcamera_isp_sub_module.so:system/vendor/lib/libmmcamera_isp_sub_module.so \
+    vendor/lge/g5-common/proprietary/vendor/lib/libmmcamera_pdaf.so:system/vendor/lib/libmmcamera_pdaf.so \
+    vendor/lge/g5-common/proprietary/vendor/lib/libmmcamera_pdafcamif.so:system/vendor/lib/libmmcamera_pdafcamif.so \
     vendor/lge/g5-common/proprietary/vendor/lib/libmmcamera_ppbase_module.so:system/vendor/lib/libmmcamera_ppbase_module.so \
     vendor/lge/g5-common/proprietary/vendor/lib/libmmcamera_t4ka3.so:system/vendor/lib/libmmcamera_t4ka3.so \
     vendor/lge/g5-common/proprietary/vendor/lib/libmmcamera_t4ka3_eeprom.so:system/vendor/lib/libmmcamera_t4ka3_eeprom.so \
