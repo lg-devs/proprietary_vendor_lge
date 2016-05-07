@@ -541,9 +541,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g5-common/proprietary/bin/hvdcp_opti:system/bin/hvdcp_opti \
     vendor/lge/g5-common/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/lge/g5-common/proprietary/bin/qcom-system-daemon:system/bin/qcom-system-daemon \
-    vendor/lge/g5-common/proprietary/lib64/libqdMetaData.so:system/lib64/libqdMetaData.so \
     vendor/lge/g5-common/proprietary/lib64/libqti-iop.so:system/lib64/libqti-iop.so \
-    vendor/lge/g5-common/proprietary/lib/libqdMetaData.so:system/lib/libqdMetaData.so \
     vendor/lge/g5-common/proprietary/vendor/bin/pd-mapper:system/vendor/bin/pd-mapper \
     vendor/lge/g5-common/proprietary/vendor/bin/qti:system/vendor/bin/qti \
     vendor/lge/g5-common/proprietary/vendor/lib64/libdiag.so:system/vendor/lib64/libdiag.so \
@@ -683,10 +681,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g5-common/proprietary/vendor/lib64/libthermalioctl.so:system/vendor/lib64/libthermalioctl.so \
     vendor/lge/g5-common/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
     vendor/lge/g5-common/proprietary/bin/time_daemon:system/bin/time_daemon \
-    vendor/lge/g5-common/proprietary/vendor/lib64/mediadrm/libdrmclearkeyplugin.so:system/vendor/lib64/mediadrm/libdrmclearkeyplugin.so \
     vendor/lge/g5-common/proprietary/vendor/lib64/libdrmfs.so:system/vendor/lib64/libdrmfs.so \
     vendor/lge/g5-common/proprietary/vendor/lib64/libdrmtime.so:system/vendor/lib64/libdrmtime.so \
-    vendor/lge/g5-common/proprietary/vendor/lib/mediadrm/libdrmclearkeyplugin.so:system/vendor/lib/mediadrm/libdrmclearkeyplugin.so \
     vendor/lge/g5-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/lge/g5-common/proprietary/vendor/lib/libdrmfs.so:system/vendor/lib/libdrmfs.so \
     vendor/lge/g5-common/proprietary/vendor/lib/libdrmtime.so:system/vendor/lib/libdrmtime.so \
