@@ -75,6 +75,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g5-common/proprietary/vendor/lib/hw/activity_recognition.msm8996.so:system/vendor/lib/hw/activity_recognition.msm8996.so \
     vendor/lge/g5-common/proprietary/bin/mm-qcamera-app:system/bin/mm-qcamera-app \
     vendor/lge/g5-common/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
+    vendor/lge/g5-common/proprietary/lib64/libn2pm.so:system/lib64/libn2pm.so \
     vendor/lge/g5-common/proprietary/lib/hw/camera.msm8996.so:system/lib/hw/camera.msm8996.so \
     vendor/lge/g5-common/proprietary/lib/libarcsoft_beauty_shot.so:system/lib/libarcsoft_beauty_shot.so \
     vendor/lge/g5-common/proprietary/lib/libfilm_emulation.so:system/lib/libfilm_emulation.so \
@@ -84,6 +85,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g5-common/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
     vendor/lge/g5-common/proprietary/lib/libmorpho_image_stab31.so:system/lib/libmorpho_image_stab31.so \
     vendor/lge/g5-common/proprietary/lib/libmorpho_superzoom.so:system/lib/libmorpho_superzoom.so \
+    vendor/lge/g5-common/proprietary/lib/libn2pm.so:system/lib/libn2pm.so \
     vendor/lge/g5-common/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/lge/g5-common/proprietary/lib/libVDBase.so:system/lib/libVDBase.so \
     vendor/lge/g5-common/proprietary/lib/libVDLowLightAPI.so:system/lib/libVDLowLightAPI.so \
@@ -410,6 +412,10 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g5-common/proprietary/vendor/lib64/librs_adreno.so:system/vendor/lib64/librs_adreno.so \
     vendor/lge/g5-common/proprietary/vendor/lib64/librs_adreno_sha1.so:system/vendor/lib64/librs_adreno_sha1.so \
     vendor/lge/g5-common/proprietary/vendor/lib64/libRSDriver_adreno.so:system/vendor/lib64/libRSDriver_adreno.so \
+    vendor/lge/g5-common/proprietary/vendor/lib64/libsdm-color.so:system/vendor/lib64/libsdm-color.so \
+    vendor/lge/g5-common/proprietary/vendor/lib64/libsdm-diag.so:system/vendor/lib64/libsdm-diag.so \
+    vendor/lge/g5-common/proprietary/vendor/lib64/libsdm-disp-apis.so:system/vendor/lib64/libsdm-disp-apis.so \
+    vendor/lge/g5-common/proprietary/vendor/lib64/libsdmextension.so:system/vendor/lib64/libsdmextension.so \
     vendor/lge/g5-common/proprietary/vendor/lib/egl/eglSubDriverAndroid.so:system/vendor/lib/egl/eglSubDriverAndroid.so \
     vendor/lge/g5-common/proprietary/vendor/lib/egl/libEGL_adreno.so:system/vendor/lib/egl/libEGL_adreno.so \
     vendor/lge/g5-common/proprietary/vendor/lib/egl/libGLESv1_CM_adreno.so:system/vendor/lib/egl/libGLESv1_CM_adreno.so \
@@ -430,6 +436,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g5-common/proprietary/vendor/lib/librs_adreno.so:system/vendor/lib/librs_adreno.so \
     vendor/lge/g5-common/proprietary/vendor/lib/librs_adreno_sha1.so:system/vendor/lib/librs_adreno_sha1.so \
     vendor/lge/g5-common/proprietary/vendor/lib/libRSDriver_adreno.so:system/vendor/lib/libRSDriver_adreno.so \
+    vendor/lge/g5-common/proprietary/vendor/lib/libsdm-disp-apis.so:system/vendor/lib/libsdm-disp-apis.so \
     vendor/lge/g5-common/proprietary/etc/firmware/a530_gpmu.fw2:system/etc/firmware/a530_gpmu.fw2 \
     vendor/lge/g5-common/proprietary/etc/firmware/a530_pfp.fw:system/etc/firmware/a530_pfp.fw \
     vendor/lge/g5-common/proprietary/etc/firmware/a530_pm4.fw:system/etc/firmware/a530_pm4.fw \
