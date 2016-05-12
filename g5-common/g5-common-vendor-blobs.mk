@@ -396,6 +396,10 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g5-common/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
     vendor/lge/g5-common/proprietary/vendor/lib/libflp.so:system/vendor/lib/libflp.so \
     vendor/lge/g5-common/proprietary/vendor/lib/liblocationservice.so:system/vendor/lib/liblocationservice.so \
+    vendor/lge/g5-common/proprietary/lib64/libsdmcore.so:system/lib64/libsdmcore.so \
+    vendor/lge/g5-common/proprietary/lib64/libsdmutils.so:system/lib64/libsdmutils.so \
+    vendor/lge/g5-common/proprietary/lib/libsdmcore.so:system/lib/libsdmcore.so \
+    vendor/lge/g5-common/proprietary/lib/libsdmutils.so:system/lib/libsdmutils.so \
     vendor/lge/g5-common/proprietary/vendor/lib64/egl/eglSubDriverAndroid.so:system/vendor/lib64/egl/eglSubDriverAndroid.so \
     vendor/lge/g5-common/proprietary/vendor/lib64/egl/libEGL_adreno.so:system/vendor/lib64/egl/libEGL_adreno.so \
     vendor/lge/g5-common/proprietary/vendor/lib64/egl/libGLESv1_CM_adreno.so:system/vendor/lib64/egl/libGLESv1_CM_adreno.so \
