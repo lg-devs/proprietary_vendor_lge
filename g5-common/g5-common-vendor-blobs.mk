@@ -381,10 +381,18 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g5-common/proprietary/lib/libfpfactory_jni.so:system/lib/libfpfactory_jni.so \
     vendor/lge/g5-common/proprietary/bin/loc_launcher:system/bin/loc_launcher \
     vendor/lge/g5-common/proprietary/bin/lowi-server:system/bin/lowi-server \
+    vendor/lge/g5-common/proprietary/lib64/hw/gps.default.so:system/lib64/hw/gps.default.so \
+    vendor/lge/g5-common/proprietary/lib64/libgps.utils.so:system/lib64/libgps.utils.so \
     vendor/lge/g5-common/proprietary/lib64/libloc_api_v02.so:system/lib64/libloc_api_v02.so \
+    vendor/lge/g5-common/proprietary/lib64/libloc_core.so:system/lib64/libloc_core.so \
     vendor/lge/g5-common/proprietary/lib64/libloc_ds_api.so:system/lib64/libloc_ds_api.so \
+    vendor/lge/g5-common/proprietary/lib64/libloc_eng.so:system/lib64/libloc_eng.so \
+    vendor/lge/g5-common/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
+    vendor/lge/g5-common/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
     vendor/lge/g5-common/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
+    vendor/lge/g5-common/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
     vendor/lge/g5-common/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
+    vendor/lge/g5-common/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     vendor/lge/g5-common/proprietary/vendor/bin/slim_daemon:system/vendor/bin/slim_daemon \
     vendor/lge/g5-common/proprietary/vendor/lib64/hw/flp.default.so:system/vendor/lib64/hw/flp.default.so \
     vendor/lge/g5-common/proprietary/vendor/lib64/libflp.so:system/vendor/lib64/libflp.so \
