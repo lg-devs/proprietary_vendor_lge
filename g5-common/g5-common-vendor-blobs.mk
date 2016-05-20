@@ -560,6 +560,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g5-common/proprietary/etc/firmware/rampatch_tlv_3.0.tlv:system/etc/firmware/rampatch_tlv_3.0.tlv \
     vendor/lge/g5-common/proprietary/etc/firmware/rampatch_tlv_3.2.tlv:system/etc/firmware/rampatch_tlv_3.2.tlv \
     vendor/lge/g5-common/proprietary/vendor/firmware/libpn548ad_fw.so:system/vendor/firmware/libpn548ad_fw.so \
+    vendor/lge/g5-common/proprietary/bin/pm-proxy:system/bin/pm-proxy \
+    vendor/lge/g5-common/proprietary/bin/pm-service:system/bin/pm-service \
     vendor/lge/g5-common/proprietary/vendor/lib64/libperipheral_client.so:system/vendor/lib64/libperipheral_client.so \
     vendor/lge/g5-common/proprietary/vendor/lib/libperipheral_client.so:system/vendor/lib/libperipheral_client.so \
     vendor/lge/g5-common/proprietary/bin/energy-awareness:system/bin/energy-awareness \
