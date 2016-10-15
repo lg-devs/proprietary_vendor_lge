@@ -87,13 +87,13 @@ LensInfo : Information of the lens present in the module.
   <CameraModuleConfig>
     <CameraId>0</CameraId>
     <SensorName>imx234</SensorName>
-    <FlashName>pmic</FlashName>
     <EepromName>imx234</EepromName>
-    <ChromatixName>imx234_chromatix</ChromatixName>
     <ActuatorName>bu24333gwl</ActuatorName>
     <OisName>bu24333gwl</OisName>
-    <!--ProxyName>vl53l0</ProxyName-->
-    <!--TcsName>tcs3490</TcsName-->
+    <FlashName>pmic</FlashName>
+    <ProxyName>vl53l0</ProxyName>
+    <TcsName>tcs3490</TcsName>
+    <ChromatixName>imx234_chromatix</ChromatixName>
     <ModesSupported>1</ModesSupported>
     <Position>0</Position>
     <MountAngle>90</MountAngle>
@@ -140,7 +140,7 @@ LensInfo : Information of the lens present in the module.
     <SensorName>imx268</SensorName>
     <EepromName>imx268</EepromName>
     <FlashName>pmic</FlashName>
-    <!--TcsName>tcs3490</TcsName-->
+    <TcsName>tcs3490</TcsName>
     <ChromatixName>imx268_chromatix</ChromatixName>
     <ModesSupported>1</ModesSupported>
     <Position>2</Position>
